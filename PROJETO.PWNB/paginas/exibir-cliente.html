@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&family=Unica+One&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../css/navegacao.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+    <link rel="stylesheet" href="../css/exibir-clientes.css" />
+    <title>Exibir Clientes</title>
+  </head>
+  <body>
+    <nav class="nav">
+      <div class="nav__logo--container">
+        <a href="../index.html" class="logo__link">
+          <img
+            class="nav__logo"
+            src="../imagens/logo.svg"
+            alt="logo da empresa"
+          />
+          <h2 class="nav__title">simples venda</h2>
+        </a>
+      </div>
+      <ul class="lista">
+        <h3 class="lista__header">Clientes</h3>
+        <li class="lista__item">
+          <a href="cadastrar-cliente.html" class="lista__link">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 640 512"
+              class="lista__icone"
+            >
+              <path
+                d="M96 128a128 128 0 1 1 256 0A128 128 0 1 1 96 128zM0 482.3C0 383.8 79.8 304 178.3 304h91.4C368.2 304 448 383.8 448 482.3c0 16.4-13.3 29.7-29.7 29.7H29.7C13.3 512 0 498.7 0 482.3zM504 312V248H440c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V136c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H552v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"
+              />
+            </svg>
+            Cadastrar</a
+          >
+        </li>
+        <li class="lista__item">
+          <a href="exibir-cliente.html" class="lista__link">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 640 512"
+              class="lista__icone"
+            >
+              <path
+                d="M144 0a80 80 0 1 1 0 160A80 80 0 1 1 144 0zM512 0a80 80 0 1 1 0 160A80 80 0 1 1 512 0zM0 298.7C0 239.8 47.8 192 106.7 192h42.7c15.9 0 31 3.5 44.6 9.7c-1.3 7.2-1.9 14.7-1.9 22.3c0 38.2 16.8 72.5 43.3 96c-.2 0-.4 0-.7 0H21.3C9.6 320 0 310.4 0 298.7zM405.3 320c-.2 0-.4 0-.7 0c26.6-23.5 43.3-57.8 43.3-96c0-7.6-.7-15-1.9-22.3c13.6-6.3 28.7-9.7 44.6-9.7h42.7C592.2 192 640 239.8 640 298.7c0 11.8-9.6 21.3-21.3 21.3H405.3zM224 224a96 96 0 1 1 192 0 96 96 0 1 1 -192 0zM128 485.3C128 411.7 187.7 352 261.3 352H378.7C452.3 352 512 411.7 512 485.3c0 14.7-11.9 26.7-26.7 26.7H154.7c-14.7 0-26.7-11.9-26.7-26.7z"
+              />
+            </svg>
+            Listar</a
+          >
+        </li>
+        <h3 class="lista__header">Campanhas</h3>
+        <li class="lista__item">
+          <a href="criarCampanha.html" class="lista__link">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 640 512"
+              class="lista__icone"
+            >
+              <path
+                d="M96 128a128 128 0 1 1 256 0A128 128 0 1 1 96 128zM0 482.3C0 383.8 79.8 304 178.3 304h91.4C368.2 304 448 383.8 448 482.3c0 16.4-13.3 29.7-29.7 29.7H29.7C13.3 512 0 498.7 0 482.3zM504 312V248H440c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V136c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H552v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"
+              />
+            </svg>
+            Cadastrar</a
+          >
+        </li>
+        <li class="lista__item">
+          <a href="exibir-campanhas.html" class="lista__link">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 640 512"
+              class="lista__icone"
+            >
+              <path
+                d="M144 0a80 80 0 1 1 0 160A80 80 0 1 1 144 0zM512 0a80 80 0 1 1 0 160A80 80 0 1 1 512 0zM0 298.7C0 239.8 47.8 192 106.7 192h42.7c15.9 0 31 3.5 44.6 9.7c-1.3 7.2-1.9 14.7-1.9 22.3c0 38.2 16.8 72.5 43.3 96c-.2 0-.4 0-.7 0H21.3C9.6 320 0 310.4 0 298.7zM405.3 320c-.2 0-.4 0-.7 0c26.6-23.5 43.3-57.8 43.3-96c0-7.6-.7-15-1.9-22.3c13.6-6.3 28.7-9.7 44.6-9.7h42.7C592.2 192 640 239.8 640 298.7c0 11.8-9.6 21.3-21.3 21.3H405.3zM224 224a96 96 0 1 1 192 0 96 96 0 1 1 -192 0zM128 485.3C128 411.7 187.7 352 261.3 352H378.7C452.3 352 512 411.7 512 485.3c0 14.7-11.9 26.7-26.7 26.7H154.7c-14.7 0-26.7-11.9-26.7-26.7z"
+              />
+            </svg>
+            Listar</a
+          >
+        </li>
+      </ul>
+    </nav>
+    <main class="main">
+      <header class="header">
+        <h1 class="header__title">Exibir Clientes</h1>
+        <div class="container__cliente">
+          <div class="container__imagem">
+            <img
+              class="image__cliente"
+              src="../imagens/dona_da_loja.png"
+              alt="Foto do dono da loja física"
+            />
+          </div>
+          <div class="container__cliente--infos">
+            <p class="p__cliente">Nome do Usuário</p>
+            <p class="p__cliente">emaildousuario@gmail.com</p>
+          </div>
+        </div>
+      </header>
+      <div class="main__content">
+        <div class="container__exibir-vendas">
+          <div class="form__item">
+            <label for="buscarCpf" class="form__label"> Consultar CPF </label>
+            <input
+              type="text"
+              id="buscarCpf"
+              class="form__input"
+              placeholder="Digite o CPF"
+            />
+          </div>
+          <button
+            class="button__primary"
+            onclick="displayVendas(document.getElementById('buscarCpf').value)"
+          >
+            Buscar Vendas
+          </button>
+
+          <div id="vendasContainer" class="vendas-container"></div>
+        </div>
+        <div class="main__content--bg">
+          <div class="container__keys">
+            <h3 class="keys__header cpf">CPF</h3>
+            <h3 class="keys__header nome">Nome</h3>
+            <h3 class="keys__header email">Email</h3>
+            <h3 class="keys__header endereco">Endereço</h3>
+            <h3 class="keys__header cep">CEP</h3>
+            <h3 class="keys__header numero">Número</h3>
+            <h3 class="keys__header telefone">Telefone</h3>
+            <h3 class="keys__header pontos">Pontos</h3>
+          </div>
+          <div id="clientesContainer" class="container__clientes-l"></div>
+        </div>
+        <script src="../scripts/displayCliente.js"></script>
+        <script src="../scripts/displayVendas.js"></script>
+      </div>
+    </main>
+  </body>
+</html>

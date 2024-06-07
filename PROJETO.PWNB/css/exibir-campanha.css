@@ -1,0 +1,132 @@
+.main__content {
+  padding: 2rem;
+  height: 87%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.form__item {
+  position: relative;
+}
+
+.form__label {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--cor-secundaria-500);
+  position: absolute;
+  top: -0.7rem;
+  left: 0.5rem;
+  padding: 0.2rem;
+  background-color: white;
+}
+
+.button__primary {
+  background-color: #16db65;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #000000;
+  border: none;
+  border-radius: 1.5rem;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+}
+
+.button__primary:hover {
+  background-color: #14ca5d;
+}
+
+.form__input {
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  border: 1px solid grey;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  width: 100%;
+}
+
+.main__content--bg {
+  background-color: #1e1e1e;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  overflow-y: auto;
+  max-height: 200px;
+}
+
+.container__exibir-vendas {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.venda {
+  display: flex;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.venda__produto {
+  border-bottom: 1px solid var(--cor-secundaria-500);
+  margin-right: 1rem;
+  justify-content: space-around;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.venda__cpf {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #000000;
+  width: 20%;
+  border-bottom: 1px solid var(--cor-secundaria-500);
+}
+
+.container__clientes-l {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.container__keys {
+  display: flex;
+  justify-content: space-between;
+}
+
+.keys__header {
+  text-transform: uppercase;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.inexistente {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #000000;
+}
+
+.campaign {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #16db65;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.container__campanha {
+  display: flex;
+}

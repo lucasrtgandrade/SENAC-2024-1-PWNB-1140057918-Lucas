@@ -1,0 +1,198 @@
+<div class="container-00">
+  <div class="container-01">
+    <div class="a01">
+      <aside class="aside">
+        <div class="aside__container">
+          <h3 class="aside__header">venda diária</h3>
+          <p class="aside__p">R$ 250,75</p>
+        </div>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 512 512"
+          class="aside__icon"
+        >
+          <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-384c13.3 0 24 10.7 24 24V264c0 13.3-10.7 24-24 24s-24-10.7-24-24V152c0-13.3 10.7-24 24-24zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z" />
+        </svg>
+      </aside>
+      <aside class="aside">
+        <div class="aside__container">
+          <h3 class="aside__header">Ticket Médio</h3>
+          <p class="aside__p">R$ 12,33</p>
+        </div>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 512 512"
+          class="aside__icon"
+        >
+          <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-384c13.3 0 24 10.7 24 24V264c0 13.3-10.7 24-24 24s-24-10.7-24-24V152c0-13.3 10.7-24 24-24zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z" />
+        </svg>
+      </aside>
+      <aside class="aside">
+        <div class="aside__container">
+          <h3 class="aside__header">Novos Clientes</h3>
+          <p class="aside__p">22</p>
+        </div>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 512 512"
+          class="aside__icon"
+        >
+          <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-384c13.3 0 24 10.7 24 24V264c0 13.3-10.7 24-24 24s-24-10.7-24-24V152c0-13.3 10.7-24 24-24zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z" />
+        </svg>
+      </aside>
+      <aside class="aside">
+        <div class="aside__container">
+          <h3 class="aside__header">roi</h3>
+          <p class="aside__p">R$ 102,50</p>
+        </div>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 512 512"
+          class="aside__icon"
+        >
+          <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-384c13.3 0 24 10.7 24 24V264c0 13.3-10.7 24-24 24s-24-10.7-24-24V152c0-13.3 10.7-24 24-24zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z" />
+        </svg>
+      </aside>
+    </div>
+    <div class="a02">
+      <aside class="aside bottom destaque">
+        <div class="aside__container">
+          <h3 class="aside__header destaque">
+            campanha
+            <br />
+            conversão
+          </h3>
+          <p class="aside__p destaque">35</p>
+          <p class="aside__small destaque">29%</p>
+        </div>
+      </aside>
+      <aside class="aside bottom">
+        <div class="aside__container">
+          <h3 class="aside__header">
+            campanha
+            <br />
+            emails
+          </h3>
+          <p class="aside__p">22</p>
+          <p class="aside__small">25%</p>
+        </div>
+      </aside>
+      <aside class="aside bottom">
+        <div class="aside__container">
+          <h3 class="aside__header">
+            campanha
+            <br />
+            cliques
+          </h3>
+          <p class="aside__p">212</p>
+          <p class="aside__small">65%</p>
+        </div>
+      </aside>
+      <aside class="aside bottom">
+        <div class="aside__container">
+          <h3 class="aside__header">
+            campanha
+            <br />
+            envios
+          </h3>
+          <p class="aside__p">732</p>
+          <p class="aside__small">23%</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+  <div class="container-02">
+    <div class="a03">
+      <aside class="destaque--main">
+        <h3 class="aside__header--main">Histórico de Vendas</h3>
+        <div class="container--info">
+          <p class="destaque--info--left">Luiz Silva</p>
+          <p class="destaque--info bold">R$ 27,32</p>
+          <p class="destaque--info">17/04</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 512 512"
+            class="destaque--icone"
+          >
+            <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM369 209L241 337c-9.4 9.4-24.6 9.4-33.9 0l-64-64c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L335 175c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z" />
+          </svg>
+        </div>
+        <div class="container--info">
+          <p class="destaque--info--left">Bruno Peixoto</p>
+          <p class="destaque--info bold">R$ 157,32</p>
+          <p class="destaque--info">17/04</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 512 512"
+            class="destaque--icone"
+          >
+            <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM369 209L241 337c-9.4 9.4-24.6 9.4-33.9 0l-64-64c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L335 175c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z" />
+          </svg>
+        </div>
+        <div class="container--info">
+          <p class="destaque--info--left">João Heleno</p>
+          <p class="destaque--info bold">R$ 257,32</p>
+          <p class="destaque--info">17/04</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 512 512"
+            class="destaque--icone"
+          >
+            <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM369 209L241 337c-9.4 9.4-24.6 9.4-33.9 0l-64-64c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L335 175c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z" />
+          </svg>
+        </div>
+        <div class="container--info">
+          <p class="destaque--info--left">Fábio Nunes</p>
+          <p class="destaque--info bold">R$ 95,48</p>
+          <p class="destaque--info">17/04</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 512 512"
+            class="destaque--icone"
+          >
+            <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM369 209L241 337c-9.4 9.4-24.6 9.4-33.9 0l-64-64c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L335 175c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z" />
+          </svg>
+        </div>
+        <div class="container--info">
+          <p class="destaque--info--left">Paula Andrade</p>
+          <p class="destaque--info bold">R$ 67.58</p>
+          <p class="destaque--info">17/04</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 512 512"
+            class="destaque--icone"
+          >
+            <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM369 209L241 337c-9.4 9.4-24.6 9.4-33.9 0l-64-64c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L335 175c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z" />
+          </svg>
+        </div>
+        <div class="container--info">
+          <p class="destaque--info--left">Bianca Souza</p>
+          <p class="destaque--info bold">R$ 83,26</p>
+          <p class="destaque--info">17/04</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 512 512"
+            class="destaque--icone"
+          >
+            <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM369 209L241 337c-9.4 9.4-24.6 9.4-33.9 0l-64-64c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L335 175c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z" />
+          </svg>
+        </div>
+      </aside>
+    </div>
+    <div class="a04">
+      <aside class="aside">
+        <div class="aside__container">
+          <h3 class="aside__header">Meta mensal</h3>
+          <p class="aside__p">R$ 2.532,65 / R$6.000,00</p>
+        </div>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 512 512"
+          class="aside__icon"
+        >
+          <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-384c13.3 0 24 10.7 24 24V264c0 13.3-10.7 24-24 24s-24-10.7-24-24V152c0-13.3 10.7-24 24-24zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z" />
+        </svg>
+      </aside>
+    </div>
+  </div>
+</div>;
