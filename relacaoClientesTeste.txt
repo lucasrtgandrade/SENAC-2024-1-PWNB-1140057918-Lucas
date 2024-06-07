@@ -1,0 +1,43 @@
+"cpf": "123.456.789-00",
+        "name": "João Silva",
+        "email": "joao.silva@example.com",
+        "address": "Rua das Flores",
+        "cep": "01000-000",
+        "house_number": "1234",
+        "cellphone": "(11) 91234-5678"
+    },
+    {
+        "cpf": "234.567.890-11",
+        "name": "Maria Oliveira",
+        "email": "maria.oliveira@example.com",
+        "address": "Avenida Paulista",
+        "cep": "01310-000",
+        "house_number": "567",
+        "cellphone": "(11) 98765-4321"
+    },
+    {
+        "cpf": "345.678.901-22",
+        "name": "Carlos Pereira",
+        "email": "carlos.pereira@example.com",
+        "address": "Rua Augusta",
+        "cep": "01400-000",
+        "house_number": "89",
+        "cellphone": "(11) 91111-2222"
+    },
+    {
+        "cpf": "456.789.012-33",
+        "name": "Ana Costa",
+        "email": "ana.costa@example.com",
+        "address": "Alameda Santos",
+        "cep": "01418-200",
+        "house_number": "456",
+        "cellphone": "(11) 92345-6789"
+    },
+    {
+        "cpf": "567.890.123-44",
+        "name": "Pedro Lima",
+        "email": "pedro.lima@example.com",
+        "address": "Rua Bela Cintra",
+        "cep": "01415-001",
+        "house_number": "789",
+        "cellphone": "(11) 93456-7890"
